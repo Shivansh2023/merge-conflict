@@ -1,1 +1,1 @@
-Hi, It's a merge conflict
+Hi, It's a new merge conflict after editing
